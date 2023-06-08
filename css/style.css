@@ -2,3 +2,6 @@ body{font-family:"Poppins",sans-serif;color:#0c0c0c;background-color:#fff}.layou
 
 .detail-box ul{margin-top:25px; margin-bottom:30px;}
 .detail-box ul li{margin-top:12.5px}
+.text-orange{color:#ffbe58}
+hr{border: 4px solid #ffbe58;margin-bottom: 5%;margin-top: 5%;}
+.heading_container .btn-box{margin-top: 1.5em;}

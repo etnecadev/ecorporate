@@ -5,3 +5,8 @@ body{font-family:"Poppins",sans-serif;color:#0c0c0c;background-color:#fff}.layou
 .text-orange{color:#ffbe58}
 hr{border: 4px solid #ffbe58;margin-bottom: 5%;margin-top: 5%;}
 .heading_container .btn-box{margin-top: 1.5em;}
+
+.contact_btn .btn-box{display:flex;justify-content:center}
+.contact_btn .btn-box a{display:inline-block;padding:10px 35px;background-color:#ffbe58;color:#fff;border-radius:30px;text-align: center;}
+.contact_btn .btn-box a:hover{background-color:#ffd28b}
+.contact_btn{padding-bottom: 20px;}
